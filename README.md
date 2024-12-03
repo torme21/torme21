@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Industrial Engineer** - National University of Engineering (UNI)  
+- 🎓 **Industrial Engineer** - National University of Engineering
 - 👨‍💻 **Commercial Intelligence Analyst** with a focus on results  
 - 📊 **Data enthusiast**, always striving to turn data into valuable insights  
 - 🤖 **Focused on process automation** to maximize efficiency  
